@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "age": 30,
+      "address": "456 Oak St, Springfield",
+      "phone": "987-654-3210"
+    },
+    {
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "age": 22,
+      "address": "789 Pine St, Springfield",
+      "phone": "456-789-0123"
+    },
+    {
+      "name": "Charlie Brown",
+      "email": "charlie.brown@example.com",
+      "age": 28,
+      "address": "321 Maple St, Springfield",
+      "phone": "789-012-3456"
+    }
+  ]
+}
